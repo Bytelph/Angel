@@ -1,0 +1,2 @@
+2023-04-28 20:43:10	9170	tname	1	[ERROR]	[root]	tests/log_test.cpp:57	error message
+2023-04-28 20:43:10	9170	tname	1	[FATAL]	[root]	tests/log_test.cpp:58	fatal message

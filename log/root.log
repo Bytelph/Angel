@@ -1,0 +1,8 @@
+[INFO]	[root]	tests/config_test.cpp:184	2023-04-19 14:10:15	4997	tname	1	after hello system
+
+[ERROR]	[root]	tests/config_test.cpp:186	2023-04-19 14:10:15	4997	tname	1	after hello system
+
+[WARN]	[root]	tests/config_test.cpp:187	2023-04-19 14:10:15	4997	tname	1	after hello system
+
+[FATAL]	[root]	tests/config_test.cpp:188	2023-04-19 14:10:15	4997	tname	1	after hello system
+
