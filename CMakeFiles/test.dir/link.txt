@@ -1,1 +1,0 @@
-/usr/bin/c++   -rdynamic -O3 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined   CMakeFiles/test.dir/tests/log_test.cpp.o  -o bin/test   -L/usr/local/lib  -L/usr/local  -Wl,-rpath,/usr/local/lib:/usr/local:/home/bytecat/桌面/Angel/lib lib/libangel.so /usr/local/lib/libyaml-cpp.a -lmysqlclient -lpthread -lmysqlclient -lpthread 

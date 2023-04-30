@@ -1,5 +1,0 @@
-/home/bytecat/桌面/Angel/CMakeFiles/rebuild_cache.dir
-/home/bytecat/桌面/Angel/CMakeFiles/config_test.dir
-/home/bytecat/桌面/Angel/CMakeFiles/edit_cache.dir
-/home/bytecat/桌面/Angel/CMakeFiles/test.dir
-/home/bytecat/桌面/Angel/CMakeFiles/angel.dir
